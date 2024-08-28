@@ -14,7 +14,9 @@ pip install mysql mysql-connector-python python-dotenv
 ## .env file layout
 
 MYSQL_USER=your_username
+
 MYSQL_PASSWORD=your_password
+
 MYSQL_HOST=localhost
 
 ## Schema name and Filepath
